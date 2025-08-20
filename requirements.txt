@@ -9,3 +9,4 @@ python-dotenv
 pypdf
 qdrant-client
 sentence-transformers
+pyowm
